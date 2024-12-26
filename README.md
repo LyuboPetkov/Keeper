@@ -9,18 +9,8 @@
    ```bash
    cd Keeper
    ```
-3. **Install dependencies**:
+3. **Run the application**:
    ```bash
    npm install
+   npm run dev
    ```
-
-### Running the Application
-1. **Start the MongoDB server**:
-   ```bash
-   mongod
-   ```
-2. **Run the application**:
-   ```bash
-   npm start
-   ```
-3. Open your browser and go to `http://localhost:3000` to see the application in action.
