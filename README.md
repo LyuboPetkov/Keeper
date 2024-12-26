@@ -1,4 +1,4 @@
-**Keeper** is a versatile and user-friendly application designed to help manage and organize your personal notes efficiently. Keeper is built with a focus on simplicity and functionality.
+**Keeper** is a versatile and user-friendly application designed to help manage and organize your personal notes efficiently. It is built with a focus on simplicity and functionality.
 
 ### Installation
 1. **Clone the repository**:
