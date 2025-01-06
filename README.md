@@ -13,7 +13,8 @@ Keeper is a versatile and user-friendly web application designed to help manage 
 - **Backend**: Node.js with Express.js
 
 ## Getting Started
-
+Open the repository in CodeSandbox: https://codesandbox.io/p/sandbox/keeper-zpddyt
+or
 Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository:**
